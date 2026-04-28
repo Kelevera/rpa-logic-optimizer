@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables (NEVER commit your API key)
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+.dist/
+
+# Vercel CLI metadata
+.vercel/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
