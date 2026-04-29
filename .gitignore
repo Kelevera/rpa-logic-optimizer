@@ -24,4 +24,7 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+<<<<<<< HEAD
 .vercel
+=======
+>>>>>>> 219ca4393fd1fdc446dbc4ea65a8e5ca410fd0c2

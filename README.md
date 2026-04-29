@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RPA Logic Optimizer — Deployment Guide
 
 Convert UiPath, Automation Anywhere, and Blue Prism workflows to
@@ -83,3 +84,6 @@ Browser → /api/convert (Vercel Function) → Anthropic API
 - [ ] Supabase Auth + Save to Library
 - [ ] Ollama integration on Geekom Mini PC (free-tier backend)
 - [ ] Enterprise: on-premise deployment option
+=======
+# rpa-logic-optimizer
+>>>>>>> 219ca4393fd1fdc446dbc4ea65a8e5ca410fd0c2
